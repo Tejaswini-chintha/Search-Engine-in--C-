@@ -66,8 +66,3 @@ Search Engine Ready. Enter search query: artificial intelligence
 * Web frontend with REST API (using cpp-httplib)
 
 ---
-
-## 👨‍💻 Author
-
-Sunisith, B.Tech CSE, IIT Madras
-
